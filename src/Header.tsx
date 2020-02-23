@@ -20,7 +20,7 @@ export const Header: React.FC = () => (
       </div>
       <div>
         <a href="http://google.com" rel="noopener noreferrer" target="_blank">
-          <button type="button" className="btn btn-info">
+          <button type="button" className="btn btn-info rsvp-button">
             RSVP
           </button>
         </a>
