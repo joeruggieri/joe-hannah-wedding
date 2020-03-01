@@ -19,7 +19,11 @@ export const Header: React.FC = () => (
         </p>
       </div>
       <div>
-        <a href="http://google.com" rel="noopener noreferrer" target="_blank">
+        <a
+          href="https://docs.google.com/forms/d/e/1FAIpQLSfu0GqfUjyAUkuKuLIjk6l0Tv9q7M0CaS3O6xXA4ExOWhKQJg/viewform"
+          rel="noopener noreferrer"
+          target="_blank"
+        >
           <button type="button" className="btn btn-info rsvp-button">
             RSVP
           </button>
