@@ -3,18 +3,20 @@ import React from "react";
 export const Header: React.FC = () => (
   <header>
     <h1 className="main-header">Joe and Hannah</h1>
-    <p className="centered sub-head">are getting married and you're invited!</p>
+    <h1 className="centered sub-head">
+      are getting married and you're invited!
+    </h1>
 
     <div className="centered">
       <div>
         <p className="info">
-          FRIDAY 25th SEPTEMBER, 2020 ---{" "}
+          Friday 25th September 2020{" "}
           <a
             href="https://www.acehotel.com/london/"
             rel="noopener noreferrer"
             target="_blank"
           >
-            ACE HOTEL, SHOREDITCH
+            Ace Hotel, Shoreditch
           </a>
         </p>
       </div>
